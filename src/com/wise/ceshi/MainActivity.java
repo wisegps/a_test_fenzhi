@@ -19,6 +19,6 @@ public class MainActivity extends Activity {
 		return true;
 	}
 	public void a(){
-		//master
+		//master is master
 	}
 }
