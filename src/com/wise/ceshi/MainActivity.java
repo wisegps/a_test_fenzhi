@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
 		return true;
 	}
 	public void a(){
-		//master is master
-		//master
+		//master2.0 is master2.0
+		//master2.0
 	}
 }
