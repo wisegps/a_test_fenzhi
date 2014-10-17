@@ -22,4 +22,7 @@ public class MainActivity extends Activity {
 		//master2.0 is master2.0
 		//master2.0
 	}
+	public void heo(){
+		//一起同步
+	}
 }
